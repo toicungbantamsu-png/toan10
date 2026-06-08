@@ -1,0 +1,6 @@
+{
+  "name": "Toán 10 - Kết nối tri thức",
+  "description": "Phần mềm học tập và thực hành Toán lớp 10 theo chương trình Kết nối tri thức với cuộc sống.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
